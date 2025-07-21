@@ -18,7 +18,7 @@ This project explores whether specific medical features are linked to diabetes u
 
 ## 📁 File
 
-[Are-Medical-Features-Linked-to-Diabetes](https://github.com/mary-alimadadi/Are-Medical-Features-Linked-to-Diabetes)
+[Are-Medical-Features-Linked-to-Diabetes](https://github.com/mary-alimadadi/Are-Medical-Features-Linked-to-Diabetes-)
 
 ## 🔗 View on Kaggle
 
